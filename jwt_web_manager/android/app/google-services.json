@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059422023825",
+    "project_id": "jwtmanager-756f4",
+    "storage_bucket": "jwtmanager-756f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059422023825:android:4fee5f4eab5b4017360f30",
+        "android_client_info": {
+          "package_name": "com.cavss.jwt_web_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlGFYuKOGD9mEzxMXgUJoPUXNyP3yfUIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
